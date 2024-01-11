@@ -7,7 +7,13 @@
 * Unfortunately, game was removed from Google Play, because I need highlight in the game instruction, that a button of gaining a money had an advertisement, which player will watch after clicking.
 * Below you can statistics of installs of the game:
 
+![Screenshot 2024-01-11 140612](https://github.com/LobosProger/Defase/assets/78168123/1689f510-0195-4ae1-9da5-8c89a6dfc5cb)
+
 ![Screenshot 2024-01-11 133402](https://github.com/LobosProger/Defase/assets/78168123/60c883ad-dd98-4c35-b1c1-bc961c5d4527)
+
+Ratings, size of game:
+
+![Screenshot 2024-01-11 140657](https://github.com/LobosProger/Defase/assets/78168123/e8ed0a83-534c-4ae6-ab0a-93ac8db0270a)
 
 ## Gameplay video
 * Enemies are represented as spaceships with different colors (blue, green, yellow, red), which represents a health of enemy
