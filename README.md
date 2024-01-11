@@ -3,7 +3,7 @@
 * The goal of player is destroying enemy spaceships aiming the sight by tilting the phone
 * Codebase is old, because this game started developing after learning Unity during 4 months and developing Quadroom game, but gameplay is really cool!
 * Assets were created by me by drawing in vector graphics in Adobe Illustrator program
-* Game also was published in Google Play Market, promoted by me by writing witty comments offering to download my game in large public pages and young audiences in social media. Installs were more than 500 downloads. 
+* Game also was published in Google Play Market, promoted by me by writing witty comments on the topic of posts of large groups in social media with young audience, offering to download my game. Installs were more than 500 downloads. 
 * Unfortunately, game was removed from Google Play, because I need highlight in the game instruction, that a button of gaining a money had an advertisement, which player will watch after clicking.
 * Below you can statistics of installs of the game:
 
